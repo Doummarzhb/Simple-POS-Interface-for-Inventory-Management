@@ -11,7 +11,7 @@ A new Flutter project.
 -logout 
 
 *lib/components/login and signup
-*screens/home_screen and custum_state_bar canceled and command in home_screen
+*screens/home_screen  ... custum_state_bar is delete   
 *pages/profile
 *model/cart
 *model/productform
