@@ -1,6 +1,10 @@
-# management
+ 
 
 A new Flutter project.
+
+This project is a user-friendly Point of Sale (POS) interface designed for inventory management in a clothing store,featuring secure login and signup functionalities,add to cart,add new product , profile , logout .
+
+ 
 Ux/Ui
 ![image](https://github.com/user-attachments/assets/e2f01f4f-c072-4706-bc98-0a500aec5011)
 ![image](https://github.com/user-attachments/assets/b397a51b-898a-400e-9af9-fbbae102d5a8)
